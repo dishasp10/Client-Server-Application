@@ -1,2 +1,2 @@
 # Client-Server-Application
-This is a quiz game which is implemented using C,Java and Android. It is a client - Server application .
+To run the application first of all you need to; run the C server in Linux Environment .After that you can run the client in Linux(C Client) as well as Android App. Now you have your client and server running. Finally, the G1 driving quiz is ready to play.
